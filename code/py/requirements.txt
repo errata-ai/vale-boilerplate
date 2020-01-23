@@ -114,7 +114,7 @@ UpSetPlot==0.2.1
 urllib3==1.24.1
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
-waitress==1.2.1
+waitress==1.4.2
 wcwidth==0.1.7
 webencodings==0.5.1
 wrapt==1.10.11
