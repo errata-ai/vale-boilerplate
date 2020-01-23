@@ -81,7 +81,7 @@ python-dateutil==2.7.5
 python-frontmatter==0.4.5
 python-mimeparse==1.6.0
 pytz==2019.1
-PyYAML==3.13
+PyYAML==5.1
 readme-renderer==24.0
 regex==2018.1.10
 requests==2.21.0
