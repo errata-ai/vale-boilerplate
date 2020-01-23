@@ -111,7 +111,7 @@ twine==1.13.0
 ujson==1.35
 Unidecode==1.0.22
 UpSetPlot==0.2.1
-urllib3==1.24.1
+urllib3==1.24.2
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 waitress==1.2.1
