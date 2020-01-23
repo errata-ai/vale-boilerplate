@@ -59,7 +59,7 @@ peewee==2.10.2
 pelican==4.2.0
 pep8==1.7.1
 pexpect==4.7.0
-Pillow==5.4.0
+Pillow==6.2.0
 pipenv==2018.11.26
 pkginfo==1.5.0.1
 plac==0.9.6
