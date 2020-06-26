@@ -31,9 +31,22 @@ This is is another sentence with an error.
 Vale's configuration file (`.vale.ini`) needs to define a `StylesPath` directory that contains any styles that you'd like to use:
 
 ```text
-styles/
-.gitignore
-.vale.ini
+.
+├── .vale.ini
+├── LICENSE
+├── README.md
+└── styles
+    └── write-good
+        ├── Cliches.yml
+        ├── E-Prime.yml
+        ├── Illusions.yml
+        ├── Passive.yml
+        ├── README.md
+        ├── So.yml
+        ├── ThereIs.yml
+        ├── TooWordy.yml
+        ├── Weasel.yml
+        └── meta.json
 ```
 
 See the [documentation](https://errata-ai.gitbook.io/vale/configuration) for more information.
