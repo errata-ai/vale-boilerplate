@@ -20,7 +20,7 @@ You can also use inline comments to control Vale's behavior:
 
 <!-- vale off -->
 
-This also works for code blocks and you can even write rules that only activate in certain sections of markup (e.g., headings or block quotes). See the [documentation](https://errata-ai.gitbook.io/vale/markup) for more information.
+This also works for code blocks and you can even write rules that only activate in certain sections of markup (e.g., headings or block quotes). See the [documentation](https://docs.errata.ai/vale/scoping) for more information.
 
 <!-- vale on -->
 
