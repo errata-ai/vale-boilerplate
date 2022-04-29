@@ -23,7 +23,8 @@ jobs:
       - name: Install Vale
         run: |
             brew install vale
-            apt-get install python-docutils
+            sudo apt-get install python-docutils
+            sudo pip install rst2html
             vale ls-config
 
       - name: List all changed files

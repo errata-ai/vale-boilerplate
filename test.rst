@@ -14,3 +14,5 @@ the time is 9am
 This file is changed now
 
 rst2html was not present, so installed it
+
+Just did pip install rst2html
