@@ -23,6 +23,7 @@ jobs:
       - name: Install Vale
         run: |
             brew install vale
+            apt-get install python-docutils
             vale ls-config
 
       - name: List all changed files

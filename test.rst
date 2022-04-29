@@ -12,3 +12,5 @@ this is the 4th error
 the time is 9am
 
 This file is changed now
+
+rst2html was not present, so installed it
