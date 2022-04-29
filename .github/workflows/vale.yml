@@ -28,6 +28,7 @@ jobs:
             vale ls-config
 
       - name: Validate rst files
+        if: always()
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             vale $file
