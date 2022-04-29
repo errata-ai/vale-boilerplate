@@ -2,7 +2,7 @@
 
 Vale is a command-line tool that brings code-like linting to prose.
 
-The [Google Style Guide](https://github.com/mautic/mautic-documentation/tree/main/.github/styles/Google) has been used
+The [Google Style Guide](https://github.com/errata-ai/Google) has been used
 
 Configuration can be set in the `.vale.ini` file, styles can be added to `.github/styles`
 
