@@ -20,14 +20,14 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v18.7
 
-      - name: Install Vale
+      - name: Install Dependencies
         run: |
             brew install vale
             sudo apt-get install python-docutils
             sudo pip install rst2html
             vale ls-config
 
-      - name: List all changed files
+      - name: Validate rst files
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             vale $file
