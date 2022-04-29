@@ -1,5 +1,11 @@
 # Test Vale
 
+Vale is a command-line tool that brings code-like linting to prose.
+
+The [Google Style Guide](https://github.com/mautic/mautic-documentation/tree/main/.github/styles/Google) has been used
+
+Configuration can be set in the `.vale.ini` file, styles can be added to `.github/styles`
+
 A Github workflow has been setup to :
 
 1. Identify the [changed](https://github.com/tj-actions/changed-files) files (New additions and modifications made to files)
