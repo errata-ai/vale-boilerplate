@@ -11,3 +11,5 @@ exec("ls -la", (error, stdout, stderr) => {
     }
     console.log(`stdout: ${stdout}`);
 });
+
+console.log("Hello");
