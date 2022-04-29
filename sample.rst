@@ -1,7 +1,7 @@
 Sample rst
 ==========
 
-That was broken yesterday.
+That was broken day before.
 
 Emdashs should not be separated by spaces — not like this!
 
