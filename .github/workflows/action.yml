@@ -15,7 +15,8 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Vale
-      uses: errata-ai/vale-action@v1
+#       uses: errata-ai/vale-action@v1
+      uses: errata-ai/vale-action@reviewdog
      
       env:
         # Required, set by GitHub actions automatically:
