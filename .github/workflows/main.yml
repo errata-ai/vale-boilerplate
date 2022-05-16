@@ -1,9 +1,0 @@
-name: reviewdog
-on: 
-  push:
-jobs:
-  actionlint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: reviewdog/action-actionlint@v1
