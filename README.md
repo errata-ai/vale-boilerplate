@@ -6,7 +6,7 @@ Try it out by running `vale README.md` from your command line.
 
 ## Markup
 
-Vale is capable of "understanding" markup, allowing it to intelligently lint prose without generators hundreds of markup-related false positives.
+Vale is capable of "understanding" markup, allowing it to intelligently lint prose without generating hundreds of markup-related false positives.
 
 For example, consider the following [`write-good`](https://github.com/btford/write-good) style violations:
 
