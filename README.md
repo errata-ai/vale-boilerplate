@@ -49,4 +49,4 @@ Vale's configuration file (`.vale.ini`) needs to define a `StylesPath` directory
         └── meta.json
 ```
 
-See the [documentation](https://docs.errata.ai/vale/config) for more information.
+See the [documentation](https://vale.sh/docs/topics/config) for more information.
