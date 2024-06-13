@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "docsify-tools": "^1.0.20"
+  },
+  "scripts": {
+    "docs": "docsify-auto-sidebar -d docs && docsify serve docs"
+  }
+}
