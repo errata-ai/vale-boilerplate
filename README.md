@@ -1,6 +1,6 @@
 # vale-boilerplate
 
-This is an repository showcases the basic components of Vale's configuration: a `StylesPath` (`/styles`), a configuration file (`/.vale.ini`), and markup content (this file).
+This repository showcases the basic components of Vale's configuration: a `StylesPath` (`/styles`), a configuration file (`/.vale.ini`), and markup content (this file).
 
 Try it out by running `vale README.md` from your command line.
 
